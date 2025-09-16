@@ -1,297 +1,305 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Manana NyAary",
+    "label": "Développeur Full-Stack | Spécialiste en IA & Big Data | Passionné de DevOps",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "email": "manananyaary@gmail.com",
+    "phone": "+261 348658689",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "summary": "Développeur polyvalent à Antananarivo, je crée des solutions technologiques à impact réel. Après un parcours en IA & Big Data (ML/DL), j’ai consolidé mon expertise en développement web avec JavaScript et Python.Aujourd’hui, je me spécialise dans le DevOps, en explorant Docker, Kubernetes et les pipelines CI/CD pour optimiser le déploiement et l’agilité des projets. Curieux et passionné, je cherche constamment à relever de nouveaux défis pour évoluer et innover.",
+    "theme": "blue",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "101",
+      "city": "Antananarivo",
+      "countryCode": "MD",
+      "region": "Madagascar"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "manana-nyaary-rakotonirainy",
+        "url": "https://linkedin.com/in/manana-nyaary-rakotonirainy"
       },
       {
         "network": "GitHub",
         "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "url": "https://github.com/NyAary29"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Créatic",
+      "position": "Développeur Full-Stack",
+      "location_type": "En locale",
+      "location": "Talatamaty, Antananarivo, Madagascar",
+      "url": "https://crea-tic.net/",
+      "startDate": "2025-07-21",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Développeur Full-Stack chez Créatic, une ESN basée à Antananarivo, Madagascar. Je travaille sur divers projets en utilisant des technologies modernes pour créer des solutions web efficaces et innovantes.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Maintenance des sites wordpress et création de sites vitrines.",
+        "Développement de fonctionnalités front-end et back-end pour des applications web.",
+        "Participation aux revues de code et collaboration avec les équipes de conception et de gestion de projet."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Création des divers sites web et applications pour les clients de l'entreprise."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "WordPress",
+        "Vue.js",
+        "GitHub",
+        "Quasar",
+        "Stelace",
+        "Node.js",
+        "JavaScript"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "269 Technology",
+      "position": "Développeur Full-Stack et IA",
+      "location_type": "Télétravail",
+      "location": "Antananarivo,Madagascar",
+      "url": "https://winedge.io",
+      "startDate": "2024-12-01",
+      "endDate": "2025-06-29",
+      "summary": "Développeur Full-Stack et IA chez 269 Technology, une entreprise innovante spécialisée dans les solutions technologiques. J'ai travaillé sur le développement d'applications web et l'intégration de modèles d'IA pour améliorer les fonctionnalités des produits.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Développement de fonctionnalités front-end et back-end pour des applications web.",
+        "Automatisation des processus internes en utilisant des téchnologies comme n8n (no code)"
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Création complet du site web et application winedge.io (une plateforme qui permet de transformer vos dépenses en bitcoins).",
+        "Création du site web de SoibyTrust (une plateforme pour les investissements immobilier au Comorres).",
+        "Automatisation des processus internes de l'entreprise avec n8n.",
+        "Scrapping emails avec Python et n8n pour la prospection."
       ],
       "skills": [
         "Python",
-        "Django",
+        "React.js",
+        "WordPress",
+        "Flask",
         "SQL",
-        "Git"
+        "Git",
+        "N8n",
+        "Trello"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "Grande Ecole d'Innovation Technologique (GE-IT)",
+      "position": "Stagiaire Développeur Web",
+      "location_type": "Sur site",
+      "location": "Antananarivo,Madagascar",
+      "url":"https://grande-ecole-it.com/",
+      "startDate": "2024-09-16",
+      "endDate": "2024-12-16",
+      "summary": "Développeur Front stagiaire à la Grande Ecole d'Innovation Technologique (GE-IT), où j'ai acquis une expérience pratique en développement web et participé à la création du dashboard interne de l'école ainsi qu'à la maintenance du site web de l'institution.",
       "highlights": [
         "Completed several client projects successfully"
       ],
+       "responsibilities": [
+        "Développement de fonctionnalités front-end du plateforme de gestion de présence de l'école."
+      ],
+      "achievements": [
+        "Création du dashboard interne de l'école pour la gestion de présence des étudiants.",
+        "Mis en place du détection facila pour la gestion de présence."
+      ],
       "skills": [
-        "HTML",
-        "CSS"
+        "React.js",
+        "Python",
+        "Tailwind CSS",
+        "JavaScript",
+        "GitLab",
+        "SCRUM",
+        "Trello"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Grande Ecole d'Innovation Technologique",
+      "url": "https://grande-ecole-it.com/",
+      "area": "IA & BigData",
+      "studyType": "Licence 3",
+      "startDate": "2023-09",
+      "endDate": "2025-01",
+      "score": "",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "institution": "Grande Ecole d'Innovation Technologique",
+      "url": "https://grande-ecole-it.com/",
+      "area": "Développement web et mobile & Réseau",
+      "studyType": "Licence 2",
+      "startDate": "2022",
+      "endDate": "2023",
+      "score": "",
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
       ]
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
+      "institution": "Grande Ecole d'Innovation Technologique",
+      "url": "https://grande-ecole-it.com/",
+      "area": "Découverte de l'informatique",
+      "studyType": "Informatique",
+      "startDate": "2022",
+      "endDate": "2022",
+      "score": "",
       "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
+
   ],
   "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    }
-  ],
+  {
+    "name": "Figma",
+    "level": "Expert",
+    "keywords": ["Design", "UI"]
+  },
+  {
+    "name": "GitLab",
+    "level": "Intermediate",
+    "keywords": ["Version Control", "Collaboration", "Source Code"]
+  },
+  {
+    "name": "HTML",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend"]
+  },
+  {
+    "name": "CSS",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "Responsive Design"]
+  },
+  {
+    "name": "JavaScript",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+  },
+  {
+    "name": "TailwindCSS",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+  },
+  {
+    "name": "TypeScript",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"]
+  },
+  {
+    "name": "React",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+  },
+  {
+    "name": "Next.js",
+    "level": "Beginner",
+    "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
+  },
+  {
+    "name": "Node.js",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+  },
+  {
+    "name": "Python",
+    "level": "Intermediate",
+    "keywords": ["Backend", "AI", "Automation", "APIs"]
+  },
+  {
+    "name": "Flask",
+    "level": "Intermediate",
+    "keywords": ["Backend", "Python Framework", "APIs"]
+  },
+  {
+    "name": "FastAPI",
+    "level": "Intermediate",
+    "keywords": ["Backend", "Python Framework", "APIs", "High Performance"]
+  },
+  {
+    "name": "Java",
+    "level": "Beginner",
+    "keywords": ["OOP", "Backend", "Software Development"]
+  },
+  {
+    "name": "SQL",
+    "level": "Intermediate",
+    "keywords": ["Databases", "Queries", "Relational"]
+  },
+  {
+    "name": "MySQL",
+    "level": "Intermediate",
+    "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+  },
+  {
+    "name": "PostgreSQL",
+    "level": "Intermediate",
+    "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+  },
+  {
+    "name": "MongoDB",
+    "level": "Intermediate",
+    "keywords": ["Databases", "NoSQL", "Data Storage", "Backend"]
+  },
+  {
+    "name": "Git",
+    "level": "Intermediate",
+    "keywords": ["Version Control", "Collaboration", "Source Code"]
+  },
+  {
+    "name": "GitHub",
+    "level": "Intermediate",
+    "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+  },
+  {
+    "name": "WordPress",
+    "level": "Intermediate",
+    "keywords": ["CMS", "Frontend", "Backend", "Web Development"]
+  },
+  {
+    "name": "Docker",
+    "level": "Intermediate",
+    "keywords": ["DevOps", "Containerization", "Deployment", "Scalability"]
+  },
+  {
+    "name": "CI/CD (GitLab CI, GitHub Actions)",
+    "level": "Beginner",
+    "keywords": ["DevOps", "Automation", "Continuous Integration", "Continuous Deployment"]
+  },
+  {
+    "name": "Linux",
+    "level": "Intermediate",
+    "keywords": ["System Administration", "Shell", "Servers", "DevOps"]
+  },
+  {
+    "name": "Trello",
+    "level": "Intermediate",
+    "keywords": ["Project Management", "Collaboration", "Agile"]
+  },
+  {
+    "name": "Cloud Platforms (AWS, Firebase, Render)",
+    "level": "Beginner",
+    "keywords": ["DevOps", "Cloud Computing", "Deployment"]
+  },
+  {
+    "name": "Monitoring & Logs",
+    "level": "Beginner",
+    "keywords": ["DevOps", "Observability", "Application Performance", "Debugging"]
+  }
+],
+
   "languages": [
     {
       "language": "English",
@@ -319,46 +327,48 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Mon Portofolio",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Création de mon portofolio personnel",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Construit avec Astro et Tailwind CSS",
+        "Déployer avec Github page"
       ],
-      "url": "https://weatherapp.com"
+      "url": "",
+      "github": "https://github.com/NyAary29"
     },
     {
-      "name": "Task Manager",
+      "name": "BonCadeau",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "C'est une site vitrine pour des repas japonais , c'est juste pour le fun",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Construit avec Nextjs",
+        "Déployer avec vercel"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://bon-cadeau.vercel.app/",
+      "github":"https://github.com/NyAary29/BonCadeau"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Quiz Game",
+      "isActive": true,
+      "description": "C'est une application de quiz , c'est un projet scolaire",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Plateforme développé avec Java",
+        "Utilisation de kotlin"
       ],
-      "url": "https://ecommerce.com"
+      "url": "",
+      "github": "https://github.com/NyAary29/Quiz_Mobile"
+    },
+    {
+      "name": "Projet IA et projet personnel",
+      "isActive": true,
+      "description": "Ce sont des projets personnel dédié au IA ",
+      "highlights": [
+        "Analyse de sentiment. Ce projet utilise des techniques de traitement du langage naturel (NLP) pour analyser les sentiments exprimés dans les textes. L'objectif est de déterminer si un texte donné (comme un tweet)",
+        "Recherche opérationnel .Cette projet est un programme créer en python afin de résoudre un problème de recherche opérationelle à partir d'une image "
+      ],
+      "url": "https://github.com/NyAary29",
+      "github":"https://github.com/NyAary29"
     }
   ]
 }
